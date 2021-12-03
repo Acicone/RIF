@@ -1,5 +1,5 @@
-# RIF
-Risampled Iterative Filtering
+# FRIF
+Fast Risampled Iterative Filtering
 
 Please refer to "Example_RIF_v1.m" for an example on how to use the code. 
 The Example requires FIF algorithm which is available at https://github.com/Acicone/FIF
