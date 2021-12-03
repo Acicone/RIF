@@ -1,0 +1,2 @@
+# RIF
+Risampled Iterative Filtering
